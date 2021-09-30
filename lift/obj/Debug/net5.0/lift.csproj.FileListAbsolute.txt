@@ -1,0 +1,15 @@
+C:\Users\Nikola\source\repos\lift\lift\bin\Debug\net5.0\lift.exe
+C:\Users\Nikola\source\repos\lift\lift\bin\Debug\net5.0\lift.deps.json
+C:\Users\Nikola\source\repos\lift\lift\bin\Debug\net5.0\lift.runtimeconfig.json
+C:\Users\Nikola\source\repos\lift\lift\bin\Debug\net5.0\lift.runtimeconfig.dev.json
+C:\Users\Nikola\source\repos\lift\lift\bin\Debug\net5.0\lift.dll
+C:\Users\Nikola\source\repos\lift\lift\bin\Debug\net5.0\ref\lift.dll
+C:\Users\Nikola\source\repos\lift\lift\bin\Debug\net5.0\lift.pdb
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\lift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\lift.AssemblyInfoInputs.cache
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\lift.AssemblyInfo.cs
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\lift.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\lift.dll
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\ref\lift.dll
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\lift.pdb
+C:\Users\Nikola\source\repos\lift\lift\obj\Debug\net5.0\lift.genruntimeconfig.cache
